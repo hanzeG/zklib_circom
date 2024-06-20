@@ -1,0 +1,20 @@
+{
+  "name": "zklib_circom",
+  "version": "1.0.0",
+  "description": "zk circuits library for circom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanzeG/zklib_circom.git"
+  },
+  "author": "hanze",
+  "license": "ISC",
+  "dependencies": {
+    "circom_tester": "^0.0.20",
+    "circomlib": "^2.0.5",
+    "circomlibjs": "^0.1.7"
+  }
+}
